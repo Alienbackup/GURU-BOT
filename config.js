@@ -57,8 +57,7 @@ global.fgsc = 'https://github.com/Alienbackup/GURU-BOT-V1'
 global.fgyt = 'https://youtube.com/@Alien Graphics'
 global.fgpyp = 'https://youtube.com/@Alien graphics'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
-global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
-
+global.dbase = 'mongodb+srv://alienbackup:alienbackup@cluster0.b6wg0kj.mongodb.net/?retryWrites=true&w=majority
 global.wait = '*⌛ _L O A D I N G..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
